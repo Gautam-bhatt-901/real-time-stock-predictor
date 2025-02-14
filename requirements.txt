@@ -1,0 +1,14 @@
+email-validator
+yfinance
+ta
+flask
+flask-sqlalchemy
+flask-login
+flask-wtf
+werkzeug
+textblob
+requests
+joblib
+numpy
+pandas
+scikit-learn
